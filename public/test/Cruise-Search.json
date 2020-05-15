@@ -1,0 +1,18 @@
+{
+    "search" : {
+      "monthFrom" : 6,
+      "monthTo": 9,
+      "months" : [],
+      "daysFrom": 1,
+      "daysTo": 10,
+      "duration": [],
+      "ships": [],
+      "departureCities": [],
+      "routeCities": []
+    },
+    "limit" : 100,
+    "offset": 0,
+    "order" : [
+        "title",true
+    ]
+}
